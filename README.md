@@ -1,4 +1,3 @@
-# pronomee
 agender pronouns (proposal)
 
 |          | Subject | Object | Possessive determiner | Possessive pronoun | Reflexive |
